@@ -51,3 +51,9 @@ docs/_build/
 
 #Vim rope project files
 .ropeproject
+
+# local db files
+*.sqlite3
+
+# Swp files
+*.swp
